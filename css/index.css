@@ -1,0 +1,14 @@
+h1 {
+  font-family: courier, sans-serif;
+  font-size: 48px;
+  font-weight: 10px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+footer {
+  text-transform: uppercase;
+  font-family: courier;
+  text-align: center;
+  padding-top: 25px;
+}
